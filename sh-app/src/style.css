@@ -1,0 +1,11 @@
+.nav {
+    color: green;
+    background: #abcdef;
+    height: 9vh;
+    display: flex;
+    justify-content: center;
+}
+.table {
+    background: #a8c3bc;
+    height: 90vh;
+}
